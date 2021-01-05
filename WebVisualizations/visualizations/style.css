@@ -6,8 +6,7 @@
     color:lightgray;
     margin-left: 30px;
     padding: inherit;
-    font-family: Arial, serif;
-    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 30px;
     background-color: slategray;
 }
@@ -50,21 +49,20 @@ img {
 
 .title {
     color: lightgray;
-    font-family: Arial, serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     padding-top: 25px;
 }
 
 .title_main {
     color: lightgray;
-    font-family: Arial, serif;
-    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: left;
 }
 
 p {
     color: lightgray;
-    font-family: Arial, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 1rem;
 }
 
@@ -89,7 +87,7 @@ footer{
     border-top-color: lightgray;
     color: lightgray;
     min-height: 50px;
-    font-family: Arial, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 12px;
     text-align: center;
     position: fixed;
