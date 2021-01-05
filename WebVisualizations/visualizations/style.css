@@ -1,44 +1,38 @@
-
-/* Navbar */
 .navbar{
     max-height: 60px;
 }
 
-/* .navigation .navbar-brand { */
 .navbar-light .navbar-brand {
-    color: rgb(93, 106, 119);
+    color:lightgray;
     margin-left: 30px;
     padding: inherit;
     font-family: Arial, serif;
     font-weight: bold;
     font-size: 30px;
-    /* background-color: gray; */
-}
-
-.navbar-brand:hover {
-    color: white;
-}
-
-.active, .dropdown-menu .dropdown-item:active a:hover {
-    background-color: lightgray;
+    background-color: slategray;
 }
 
 .dropdown-item {
-    color: slategray;
+    color: lightgray;
 }
 
+.thumb_comparison {
+    width:75%;
+    height:75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 a {
     color:slategray;
     font-size: 15px;
 }
 
-/* Body */
 body{
     background-color: slategray;
 }
 
-/* Images */
 img {
     width:100%;
     height:100%;
@@ -46,7 +40,7 @@ img {
 }
 
 .active, .thumb:hover {
-    border: 2.5px solid gray;
+    border: 2.5px solid rgb(71, 71, 71);
 }
 
 .vizualization {
@@ -54,11 +48,9 @@ img {
     height:50%;
 }
 
-/* Title Class  */
 .title {
     color: lightgray;
     font-family: Arial, serif;
-    font-weight: bold;
     text-align: center;
     padding-top: 25px;
 }
@@ -68,17 +60,14 @@ img {
     font-family: Arial, serif;
     font-weight: bold;
     text-align: left;
-    padding-top: 25px;
 }
 
-/* Paragraph Element */
 p {
     color: lightgray;
     font-family: Arial, sans-serif;
     font-size: 1rem;
 }
 
-/* Box Class */
 .box {
     margin-top: 60px;
     margin-bottom: 60px;
@@ -87,14 +76,12 @@ p {
     background-color: slategray;
 }
 
-/* Table */
 .table {
     font-size: 15px;
     color: slategray;
-    background-color: rgb(185, 211, 238);
+    background-color: rgb(199, 226, 255);
 }
 
-/* Footer */
 footer{
     background-color:dimgray;
     border-top-style: solid;
