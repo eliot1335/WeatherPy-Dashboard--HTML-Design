@@ -1,6 +1,6 @@
 # Web Visualization Dashboard - HTML Practice
 
-In this homework exercise, we will be building a few html pages using the given assets including, weatherPy plots and data sets, for visualization.
+In this exercise, I will be building a few html pages using the given assets including, weatherPy plots and data sets, for visualization.
 
 We will be using basic html, css, and bootstrap, for structuring and styling the pages.
 
