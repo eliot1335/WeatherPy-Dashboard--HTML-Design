@@ -1,4 +1,4 @@
-# Web-Design Homework - Web Visualization Dashboard (Latitude)
+# Web Visualization Dashboard - HTML Practice
 
 In this homework exercise, we will be building a few html pages using the given assets including, weatherPy plots and data sets, for visualization.
 
